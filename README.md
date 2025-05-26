@@ -1,4 +1,4 @@
-# Images-Slider :arrow_forward:
+# Image Slider :arrow_forward:
 
 ## Overview
 This is a web-based Image Slider built with HTML, CSS, and JavaScript. The slider displays a series of images with navigation controls (Previous/Next buttons) and pagination indicators. Users can navigate through the images manually by clicking the buttons or pagination bullets. The images displayed in the slider were personally taken by the project creator.
